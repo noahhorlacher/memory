@@ -1,0 +1,159 @@
+.icons {
+	--card-border: 4px solid #352d52;
+	--card-back: url(themes/icons/back.svg) no-repeat center center,
+		linear-gradient(to bottom, #7b7994, #68608b);
+	--card-back-size: 80%, cover;
+	--card-front-color: #f3f3f3;
+	--card-front-size: 80%;
+}
+
+.icons card[selection='0'] {
+	--card-front: url(themes/icons/front/alarm.svg);
+}
+.icons card[selection='1'] {
+	--card-front: url(themes/icons/front/bag-check.svg);
+}
+.icons card[selection='2'] {
+	--card-front: url(themes/icons/front/lamp.svg);
+}
+.icons card[selection='3'] {
+	--card-front: url(themes/icons/front/tornado.svg);
+}
+.icons card[selection='4'] {
+	--card-front: url(themes/icons/front/basket.svg);
+}
+.icons card[selection='5'] {
+	--card-front: url(themes/icons/front/battery-charging.svg);
+}
+.icons card[selection='6'] {
+	--card-front: url(themes/icons/front/bell.svg);
+}
+.icons card[selection='7'] {
+	--card-front: url(themes/icons/front/bicycle.svg);
+}
+.icons card[selection='8'] {
+	--card-front: url(themes/icons/front/binoculars.svg);
+}
+.icons card[selection='9'] {
+	--card-front: url(themes/icons/front/book.svg);
+}
+.icons card[selection='10'] {
+	--card-front: url(themes/icons/front/bookmark-check.svg);
+}
+.icons card[selection='11'] {
+	--card-front: url(themes/icons/front/bookshelf.svg);
+}
+.icons card[selection='12'] {
+	--card-front: url(themes/icons/front/tree.svg);
+}
+.icons card[selection='13'] {
+	--card-front: url(themes/icons/front/bounding-box.svg);
+}
+.icons card[selection='14'] {
+	--card-front: url(themes/icons/front/box.svg);
+}
+.icons card[selection='15'] {
+	--card-front: url(themes/icons/front/bricks.svg);
+}
+.icons card[selection='16'] {
+	--card-front: url(themes/icons/front/briefcase.svg);
+}
+.icons card[selection='17'] {
+	--card-front: url(themes/icons/front/brightness-high.svg);
+}
+.icons card[selection='18'] {
+	--card-front: url(themes/icons/front/brush.svg);
+}
+.icons card[selection='19'] {
+	--card-front: url(themes/icons/front/bucket.svg);
+}
+.icons card[selection='20'] {
+	--card-front: url(themes/icons/front/bug.svg);
+}
+.icons card[selection='21'] {
+	--card-front: url(themes/icons/front/building.svg);
+}
+.icons card[selection='22'] {
+	--card-front: url(themes/icons/front/bullseye.svg);
+}
+.icons card[selection='23'] {
+	--card-front: url(themes/icons/front/calculator.svg);
+}
+.icons card[selection='24'] {
+	--card-front: url(themes/icons/front/calendar3.svg);
+}
+.icons card[selection='25'] {
+	--card-front: url(themes/icons/front/camera.svg);
+}
+.icons card[selection='26'] {
+	--card-front: url(themes/icons/front/card-image.svg);
+}
+.icons card[selection='27'] {
+	--card-front: url(themes/icons/front/cart.svg);
+}
+.icons card[selection='28'] {
+	--card-front: url(themes/icons/front/chat-square-dots.svg);
+}
+.icons card[selection='29'] {
+	--card-front: url(themes/icons/front/circle-half.svg);
+}
+.icons card[selection='30'] {
+	--card-front: url(themes/icons/front/clock.svg);
+}
+.icons card[selection='31'] {
+	--card-front: url(themes/icons/front/cloud-moon.svg);
+}
+.icons card[selection='32'] {
+	--card-front: url(themes/icons/front/coin.svg);
+}
+.icons card[selection='33'] {
+	--card-front: url(themes/icons/front/controller.svg);
+}
+.icons card[selection='34'] {
+	--card-front: url(themes/icons/front/credit-card.svg);
+}
+.icons card[selection='35'] {
+	--card-front: url(themes/icons/front/cpu.svg);
+}
+.icons card[selection='36'] {
+	--card-front: url(themes/icons/front/cup-straw.svg);
+}
+.icons card[selection='37'] {
+	--card-front: url(themes/icons/front/dice-3.svg);
+}
+.icons card[selection='38'] {
+	--card-front: url(themes/icons/front/door-open.svg);
+}
+.icons card[selection='39'] {
+	--card-front: url(themes/icons/front/droplet.svg);
+}
+.icons card[selection='40'] {
+	--card-front: url(themes/icons/front/egg-fried.svg);
+}
+.icons card[selection='41'] {
+	--card-front: url(themes/icons/front/envelope.svg);
+}
+.icons card[selection='42'] {
+	--card-front: url(themes/icons/front/eyeglasses.svg);
+}
+.icons card[selection='43'] {
+	--card-front: url(themes/icons/front/fan.svg);
+}
+.icons card[selection='44'] {
+	--card-front: url(themes/icons/front/fingerprint.svg);
+}
+.icons card[selection='45'] {
+	--card-front: url(themes/icons/front/flower1.svg);
+}
+.icons card[selection='46'] {
+	--card-front: url(themes/icons/front/gear.svg);
+}
+.icons card[selection='47'] {
+	--card-front: url(themes/icons/front/gem.svg);
+}
+.icons card[selection='48'] {
+	--card-front: url(themes/icons/front/gift.svg);
+}
+.icons card[selection='49'] {
+	--card-front: url(themes/icons/front/key.svg);
+}
